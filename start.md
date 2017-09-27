@@ -16,6 +16,9 @@ permalink: /start/
 * *week eight*
 * *week nine*
 * *week ten*
+* *week eleven*
+* *week twelve*
+* *week thirteen*
 
 # Reading
 
