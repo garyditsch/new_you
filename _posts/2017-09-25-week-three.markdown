@@ -33,7 +33,7 @@ date:   2017-09-25 20:38:20 -0600
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-*Day Twenty One: Challenge Day*
+*Day Twenty One: **Challenge Day***
 * Find a challenge activity and complete it, log your challenge
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.

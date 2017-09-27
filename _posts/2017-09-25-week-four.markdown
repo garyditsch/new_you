@@ -51,7 +51,7 @@ date:   2017-09-25 20:37:20 -0600
     * Complete your daily habit and log it
     * Take 5 minutes and practice your mantra or visualization.
 
-*Day Twenty Eight: Challenge Day*
+*Day Twenty Eight: **Challenge Day***
 * Find a challenge activity and complete it, log your challenge
 * Your Daily Routine:
     * Complete your daily practice and log it

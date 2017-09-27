@@ -49,7 +49,7 @@ date:   2017-09-25 20:39:20 -0600
 * Pick one of the strategies that you developed over the past two days to practice each day over the remainder of the program.
 * Take 5 minutes and practice the strategy you choose.
 
-*Day Fourteen: Challenge Day*
+*Day Fourteen: **Challenge Day***
 * Read: *[Challenge yourself: The secret to living fully as we age, along with 10 things you can try today.]({{ site.baseurl }}{% post_url 2017-09-25-challenge-yourself %})*
 * Find a challenge activity and complete it, log your challenge
 * Complete your daily habit and log it
