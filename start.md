@@ -16,3 +16,8 @@ permalink: /start/
 * *week eight*
 * *week nine*
 * *week ten*
+
+# Reading
+
+* *[Knowing is not doing: 4 keys to making sure you are actually making progress.]({{ site.baseurl }}{% post_url 2017-09-25-knowing-is-not-doing %})*
+* *[It is a marathon: lessons about behavior change taken from the first three miles.]({{ site.baseurl }}{% post_url 2017-09-25-its-a-marathon %})*
