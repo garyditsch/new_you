@@ -11,8 +11,8 @@ permalink: /start/
 * *[week three]({{ site.baseurl }}{% post_url 2017-09-25-week-three %})*
 * *[week four]({{ site.baseurl }}{% post_url 2017-09-25-week-four %})*
 * *[week five]({{ site.baseurl }}{% post_url 2017-09-25-week-five %})*
-* *week six*
-* *week seven*
+* *[week six]({{ site.baseurl }}{% post_url 2017-09-25-week-six %})*
+* *[week seven]({{ site.baseulr }}{% post_url 2017-09-25-week-seven %})*
 * *week eight*
 * *week nine*
 * *week ten*
@@ -32,3 +32,6 @@ permalink: /start/
 **Week Four**
 * *[Become an expert at generating self motivation]({{ site.baseurl }}{% post_url 2017-09-25-expert-at-self-motivation %})*
 * *[James Altucher’s Daily Practice](http://www.jamesaltucher.com/start/)*
+
+**Week Seven**
+* *[Social support in your change process: Lessons from weddings, fires, divorce and alcohol]({{ site.baseurl }}{% post_url 2017-09-25-social-support-in-your-change-process %})*
