@@ -9,31 +9,31 @@ date:   2017-09-25 20:38:20 -0600
 
 **Activities:**
 
-**Day Fifteen:**
+*Day Fifteen:*
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-**Day Sixteen:**
+*Day Sixteen:*
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-**Day Seventeen:**
+*Day Seventeen:*
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-**Day Eighteen:**
+*Day Eighteen:*
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-**Day Nineteen:**
+*Day Nineteen:*
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-**Day Twenty:**
+*Day Twenty:*
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
 
-**Day Twenty One: Challenge Day**
+*Day Twenty One: Challenge Day*
 * Find a challenge activity and complete it, log your challenge
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.

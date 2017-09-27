@@ -16,12 +16,13 @@ date:   2017-09-25 20:39:20 -0600
 * At the end of this week you should have a list of sabotaging thoughts that you’ve had in relation to your goal.
 * At the end of this week you should have created 2 strategies for managing your mindset and overcoming negative thoughts.
 * At the end of this week you will begin a daily practice, utilizing one of the strategies that you created to overcome negative thoughts.
+* At the end of this week you will begin participating in a Challenge Day.
 
 **Activities:**
 
 *Day Eight:*
 * Complete your daily habit and log it
-* Read: Two lessons about successfully changing your behavior that are not fun.
+* Read: *[Two lessons about successfully changing your behavior that are not fun.]({{ site.baseurl }}{% post_url 2017-09-25-two-lessons-about-changing-your-behavior %})*
 * List 3 “if only” statements that you have said or thought as it relates to your goal.
 
 *Day Nine:*
@@ -34,14 +35,14 @@ date:   2017-09-25 20:39:20 -0600
 
 *Day Eleven:*
 * Complete your daily habit and log it
-* Read: What is your story? Sabotaging thoughts and 2 strategies to overcome them.
+* Read: *[What is your story? Sabotaging thoughts and 2 strategies to overcome them.]({{ site.baseurl }}{% post_url 2017-09-25-what-is-your-story-sabotaging-thoughts %})*
 * Strategy One:
     * Find a mantra that has personal meaning.
 
 *Day Twelve:*
 * Complete your daily habit and log it
 * Strategy Two:
-* Determine a powerful visualization that you can use when negative thoughts are interfering with your health and happiness.
+    * Determine a powerful visualization that you can use when negative thoughts are interfering with your health and happiness.
 
 *Day Thirteen:*
 * Complete your daily habit and log it
@@ -49,7 +50,7 @@ date:   2017-09-25 20:39:20 -0600
 * Take 5 minutes and practice the strategy you choose.
 
 *Day Fourteen: Challenge Day*
-* Read: Challenge yourself: The secret to living fully as we age.
+* Read: *[Challenge yourself: The secret to living fully as we age, along with 10 things you can try today.]({{ site.baseurl }}{% post_url 2017-09-25-challenge-yourself %})*
 * Find a challenge activity and complete it, log your challenge
 * Complete your daily habit and log it
 * Take 5 minutes and practice your mantra or visualization.
