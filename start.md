@@ -12,8 +12,8 @@ permalink: /start/
 * *[week four]({{ site.baseurl }}{% post_url 2017-09-25-week-four %})*
 * *[week five]({{ site.baseurl }}{% post_url 2017-09-25-week-five %})*
 * *[week six]({{ site.baseurl }}{% post_url 2017-09-25-week-six %})*
-* *[week seven]({{ site.baseulr }}{% post_url 2017-09-25-week-seven %})*
-* *week eight*
+* *[week seven]({{ site.baseurl }}{% post_url 2017-09-25-week-seven %})*
+* *[week eight]({{ site.baseurl }}{% post_url 2017-09-25-week-eight %})*
 * *week nine*
 * *week ten*
 * *week eleven*
@@ -25,7 +25,7 @@ permalink: /start/
 **Week One**
 * *[Knowing is not doing: 4 keys to making sure you are actually making progress.]({{ site.baseurl }}{% post_url 2017-09-25-knowing-is-not-doing %})*
 * *[It is a marathon: lessons about behavior change taken from the first three miles.]({{ site.baseurl }}{% post_url 2017-09-25-its-a-marathon %})*
-* Having a vision for the future: What is your stretch goal?
+* *[Having a vision for the future: What is your stretch goal?]({{ site.baseurl }}{% post_url 2017-09-25-what-is-your-stretch-goal %})*
 
 **Week Two**
 * *[Two lessons about successfully changing your behavior that are not fun.]({{ site.baseurl }}{% post_url 2017-09-25-two-lessons-about-changing-your-behavior %})*
