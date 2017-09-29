@@ -6,14 +6,22 @@ permalink: /start/
 
 # Weekly Lessons
 
-* *[week one]({{ site.baseurl }}{% post_url 2017-09-25-week-one %})*
-* *[week two]({{ site.baseurl }}{% post_url 2017-09-25-week-two %})*
-* *[week three]({{ site.baseurl }}{% post_url 2017-09-25-week-three %})*
-* *[week four]({{ site.baseurl }}{% post_url 2017-09-25-week-four %})*
-* *[week five]({{ site.baseurl }}{% post_url 2017-09-25-week-five %})*
-* *[week six]({{ site.baseurl }}{% post_url 2017-09-25-week-six %})*
-* *[week seven]({{ site.baseurl }}{% post_url 2017-09-25-week-seven %})*
-* *[week eight]({{ site.baseurl }}{% post_url 2017-09-25-week-eight %})*
+* *[week one: ]({{ site.baseurl }}{% post_url 2017-09-25-week-one %})*
+    * Self assessment and initial goal setting
+* *[week two: ]({{ site.baseurl }}{% post_url 2017-09-25-week-two %})*
+    * Establish a successful mindset
+* *[week three: ]({{ site.baseurl }}{% post_url 2017-09-25-week-three %})*
+    * Practice
+* *[week four: ]({{ site.baseurl }}{% post_url 2017-09-25-week-four %})*
+    * Maintaining motivation and your daily practice
+* *[week five: ]({{ site.baseurl }}{% post_url 2017-09-25-week-five %})*
+    * Practice
+* *[week six: ]({{ site.baseurl }}{% post_url 2017-09-25-week-six %})*
+    * Build upon your daily routine
+* *[week seven: ]({{ site.baseurl }}{% post_url 2017-09-25-week-seven %})*
+    * Finding social support to improve your chances of success
+* *[week eight: ]({{ site.baseurl }}{% post_url 2017-09-25-week-eight %})*
+    * Build upon your daily routine
 * *week nine*
 * *week ten*
 * *week eleven*
