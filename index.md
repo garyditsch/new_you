@@ -9,12 +9,6 @@ layout: home
 
 I have spent my career helping people reach their health, fitness and performance goals. Here’s a list of a few of the goals I have helped clients achieve:
 
-<div class='img-bio' markdown="1">
-
-![Taking on Another Challenge][bio-image]
-
-</div>
-
 * Lose 90 pounds in 12 months
 * Start a regular exercise program to manage their diabetes
 * Qualify for the Boston Marathon
@@ -25,6 +19,8 @@ I have spent my career helping people reach their health, fitness and performanc
 * Start a regular exercise program to manage mood and stress
 * To develop mobility and strength to exercise with less pain and injury
 * Stop smoking
+
+![Taking on Another Challenge][bio-image]
 
 These are a few among many challenges and goals that people have come searching for support. They sometimes come with hope and enthusiasm. There are other times that they come in desperation and with doubt.
 
