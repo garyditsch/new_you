@@ -23,10 +23,15 @@ permalink: /start/
 * *[week eight: ]({{ site.baseurl }}{% post_url 2017-09-25-week-eight %})*
     * Build upon your daily routine
 * *week nine*
+    * Change your routine, by changing your setting
 * *week ten*
+    * Build upon daily routine
 * *week eleven*
+    * Express gratitude and find happiness
 * *week twelve*
+    * Build upon daily practice
 * *week thirteen*
+    * Final lesson: Continue to assess and evaluate 
 
 # Reading
 

@@ -20,7 +20,6 @@ I have spent my career helping people reach their health, fitness and performanc
 * To develop mobility and strength to exercise with less pain and injury
 * Stop smoking
 
-![Taking on Another Challenge][bio-image]
 
 These are a few among many challenges and goals that people have come searching for support. They sometimes come with hope and enthusiasm. There are other times that they come in desperation and with doubt.
 
@@ -49,5 +48,3 @@ I wanted to create this program so someone who has a desire to make a change in 
 **Get the updates:**
 
 I am developing this program using process similar to the way a software developer creates new software. The program is ready for use today, however it will be updated over time. It will include more stories, examples and activities. If you would like to subscribe to receive those updates, [sign up here](http://eepurl.com/c5qLKv).
-
-[bio-image]: /assets/images/garys-happy-bio.jpg "Taking on Another Challenge"
