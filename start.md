@@ -22,16 +22,16 @@ permalink: /start/
     * Finding social support to improve your chances of success
 * *[week eight: ]({{ site.baseurl }}{% post_url 2017-09-25-week-eight %})*
     * Build upon your daily routine
-* *week nine*
-    * Change your routine, by changing your setting
-* *week ten*
-    * Build upon daily routine
+* *[week nine: ]({{ site.baseurl }}{% post_url 2017-09-25-week-nine %})*
+    * Change your setting to change your habits
+* *[week ten: ]({{ site.baseurl }}{% post_url 2017-09-25-week-ten %})*
+    * Build upon daily routine, adding a new habit
 * *week eleven*
     * Express gratitude and find happiness
 * *week twelve*
     * Build upon daily practice
 * *week thirteen*
-    * Final lesson: Continue to assess and evaluate 
+    * Final lesson: Continue to assess and evaluate
 
 # Reading
 
@@ -51,3 +51,6 @@ permalink: /start/
 
 **Week Seven**
 * *[Social support in your change process: Lessons from weddings, fires, divorce and alcohol]({{ site.baseurl }}{% post_url 2017-09-25-social-support-in-your-change-process %})*
+
+**Week Nine**
+* *[Change your setting to change your habits: it can be as simple as going around the block.]({{ site.baseurl }}{% post_url 2017-09-25-change-your-settings %})*

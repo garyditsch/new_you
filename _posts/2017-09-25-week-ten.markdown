@@ -1,36 +1,37 @@
 ---
 layout: post
-title:  "Week Eight"
-date:   2017-09-25 20:35:20 -0600
+title:  "Week Ten"
+date:   2017-09-25 20:33:20 -0600
 ---
 **Objectives:**
 * At the end of the week, you will have built upon your daily routine.
 * At the end of the week, you will have evaluated and adjusted your daily habit.
+* At the end of the week, you will have added a second daily habit.
 * At the end of the week, you will have evaluated and decided to maintain or change your mantra or visualization.
 * At the end of the week, you will have evaluated and adjusted your daily practice.
 
 **Comments:**
-* It is time to evaluate your daily routine and determine what you can do to build upon it. Remember to make it a small step-wise progression. You are building a happier and healthier life, not just getting through a 30 or 90 day program.
+* It is time to build towards your vision. This week you will be adding a second daily habit to being implementing.
 
 **Activities:**
 
-*Day Fifty:*
+*Day Sixty-Four:*
 * Evaluate your daily habit.
-* Write down 2 things that have been positive outcomes of your daily habit so far.
+* Write down 2 things that have been positive outcomes of your daily habit.
 * Write down 3 ways you could change your daily habit to make it more impactful in reaching your stretch goal.
 * Your Daily Routine:
 	* Complete your daily practice and log it
 	* Complete your daily habit and log it
 	* Take 10 minutes and practice your mantra or visualization.
 
-*Day Fifty-One:*
+*Day Sixty-Five:*
 * Look at the list you created yesterday of the 3 ways you could change your daily habit. Pick one of those ideas and begin using it.
 * Your Daily Routine:
 	* Complete your daily practice and log it
 	* Complete your improved daily habit and log it
 	* Take 10 minutes and practice your mantra or visualization.
 
-*Day Fifty-Two:*
+*Day Sixty-Six:*
 * Review your mantra or visualization.
 * Does it still have personal value for you?
 * If it does, continue to practice it as part of your daily routine.
@@ -40,31 +41,32 @@ date:   2017-09-25 20:35:20 -0600
 	* Complete your daily habit and log it
 	* Take 10 minutes and practice your mantra or visualization.
 
-*Day Fifty-Three:*
+*Day Sixty-Seven:*
+* Review the list of 3 habits you created on [Day Two]({{ site.baseurl }}{% post_url 2017-09-25-week-one %}) of this program. One of those habits you have been growing since then, however two are left. Choose one of the remaining two and start doing it today.
 * Your Daily Routine:
 	* Complete your daily practice and log it
-	* Complete your daily habit and log it
+	* Complete both of your daily habits and log them
 	* Take 10 minutes and practice your mantra or visualization.
 
-*Day Fifty-Four:*
+*Day Sixty-Eight:*
 * Evaluate your daily practice activity.
 * Are you completing your practice everyday?
 * Can you add something to your practice? For example, if you are doing something for your mental well-being, can you add something for your social well-being?
 * If you are please with your current daily practice, continue using it daily. Otherwise, choose a new activity or add another activity.
 * Your Daily Routine:
 	* Complete your daily practice and log it
-	* Complete your daily habit and log it
+	* Complete both of your daily habits and log them
 	* Take 10 minutes and practice your mantra or visualization.
 
-*Day Fifty-Five:*
+*Day Sixty-Nine:*
 * Your Daily Routine:
 	* Complete your daily practice and log it
-	* Complete your daily habit and log it
+	* Complete both of your daily habits and log them
 	* Take 10 minutes and practice your mantra or visualization.
 
-*Day Fifty-Six: **Challenge Day***
+*Day Seventy: **Challenge Day***
 * Find a challenge activity and complete it, log your challenge
 * Your Daily Routine:
 	* Complete your daily practice and log it
-	* Complete your daily habit and log it
+	* Complete both of your daily habits and log them
 	* Take 10 minutes and practice your mantra or visualization.

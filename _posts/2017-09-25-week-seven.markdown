@@ -20,7 +20,7 @@ date:   2017-09-25 20:34:20 -0600
 **Activities:**
 
 *Day Forty-Three:*
-* Read: Social support in your change process: Lessons from weddings, fires, divorce and alcohol
+* Read: *[Social support in your change process: Lessons from weddings, fires, divorce and alcohol]({{ site.baseurl }}{% post_url 2017-09-25-social-support-in-your-change-process %})*
 * Your Daily Routine:
 	* Complete your daily practice and log it
 	* Complete your daily habit and log it
