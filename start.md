@@ -26,7 +26,7 @@ permalink: /start/
     * Change your setting to change your habits
 * *[week ten: ]({{ site.baseurl }}{% post_url 2017-09-25-week-ten %})*
     * Build upon daily routine, adding a new habit
-* *week eleven*
+* *[week eleven: ]({{ site.baseurl }}{% post_url 2017-09-25-week-eleven %})*
     * Express gratitude and find happiness
 * *week twelve*
     * Build upon daily practice
@@ -54,3 +54,6 @@ permalink: /start/
 
 **Week Nine**
 * *[Change your setting to change your habits: it can be as simple as going around the block.]({{ site.baseurl }}{% post_url 2017-09-25-change-your-settings %})*
+
+**Week Eleven**
+* *Express gratitude and find happiness* 
