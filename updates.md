@@ -8,4 +8,4 @@ permalink: /updates/
 
 # Program updates
 
-* 10/1/17 - Launch of initial program
+* 10/1/17, version 0.01 - Launch of initial program
