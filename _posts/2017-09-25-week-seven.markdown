@@ -42,7 +42,6 @@ date:   2017-09-25 20:34:20 -0600
 	* Take 10 minutes and practice your mantra or visualization.
 
 *Day Forty-Six:*
-* Narrow your list of 5 things from yesterday’s daily practice brainstorm down to the 2 best options.
 * Your Daily Routine:
     * Complete your daily practice and log it
     * Complete your daily habit and log it
