@@ -20,7 +20,7 @@ date:   2017-09-25 20:40:20 -0600
 
 *Day One:*
 * Read: *[Knowing is not doing: 4 keys to making sure you are actually making progress.]({{ site.baseurl }}{% post_url 2017-09-25-knowing-is-not-doing %})*
-* Make a list of 5 things you can do start doing today that is:  simple, can be completed daily, is easy enough that you are guaranteed to succeed.
+* Make a list of 5 things you can start doing today that are:  simple, can be completed daily, is easy enough that you are guaranteed to succeed.
 
 *Day Two:*
 * Make a list of 5 additional things you can start doing today to work towards your goal.
