@@ -8,4 +8,10 @@ permalink: /updates/
 
 # Program updates
 
+* 10/5/17, version 0.02
+    * added content for weeks 9, 10, 11 & 12
+    * updated several grammar errors
+    * fixed error where you would mistakenly be taken to pycoach.com instead of happierandhealthieryou.com after email sign up
+    * added page to describe downloadable journal
+    * added ability to download two (1 and 9) sample chapters of journal for free
 * 10/1/17, version 0.01 - Launch of initial program
