@@ -16,7 +16,7 @@ date:   2017-09-25 20:32:20 -0600
 **Activities:**
 
 *Day Seventy-One*
-* Read: *Express gratitude and uncover your happiness*
+* Read: *[Express gratitude and find happiness]({{ site.baseurl }}{% post_url 2017-09-25-express-gratitude %})*
 * Your Daily Routine:
 	* Take 10 minutes and practice your mantra or visualization.
 	* Complete both of your daily habits and log them
