@@ -8,6 +8,8 @@ permalink: /updates/
 
 # Program updates
 
+* 10/6/17
+    * added *[Express gratitude and find happiness]({{ site.baseurl }}{% post_url 2017-09-25-express-gratitude %})* article for week eleven reading 
 * 10/5/17, version 0.02
     * added content for weeks 9, 10, 11 & 12
     * updated several grammar errors

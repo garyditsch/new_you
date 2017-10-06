@@ -58,4 +58,4 @@ permalink: /start/
 * *[Change your setting to change your habits: it can be as simple as going around the block.]({{ site.baseurl }}{% post_url 2017-09-25-change-your-settings %})*
 
 **Week Eleven**
-* *Express gratitude and find happiness*
+* *[Express gratitude and find happiness]({{ site.baseurl }}{% post_url 2017-09-25-express-gratitude %})*
