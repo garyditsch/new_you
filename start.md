@@ -32,7 +32,7 @@ permalink: /start/
     * Express gratitude and find happiness
 * *[week twelve: ]({{ site.baseurl }}{% post_url 2017-09-25-week-twelve %})*
     * Build upon daily practice
-* *week thirteen*
+* *[week thirteen: ]({{ site.baseurl }}{% post_url 2017-09-25-week-thirteen %})*
     * Final lesson: Continue to assess and evaluate
 
 # Reading
