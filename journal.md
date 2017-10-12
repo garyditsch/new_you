@@ -6,6 +6,8 @@ permalink: /journal/
 
 >> We are limiting this initial sale to 25 individuals
 
+>> 22 left
+
 The journal is the same content and information that is available for free on this site. You can work through the Happier and Healthier You behavior change process, by following the steps on the '[Start Here]({{ site.baseurl }}{% link start.md %})' page.
 
 The journal was created because some people like to have a little more structure around the daily activities. They appreciate check boxes to mark off and blanks to fill in.
