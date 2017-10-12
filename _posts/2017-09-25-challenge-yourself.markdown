@@ -2,6 +2,7 @@
 layout: post
 title:  "Challenge yourself: The secret to living fully as we age, along with 10 things you can try today."
 date:   2017-09-25 19:55:20 -0600
+
 ---
 
 I decided to go climb Black Elk Peak (formerly Harney Peak) in Custer State Park yesterday. It was a chance to celebrate the 39 years that I have been alive. An opportunity to exert some physical energy and be grateful for the health that I possess today. It was also a way to challenge myself.
