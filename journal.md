@@ -6,7 +6,7 @@ permalink: /journal/
 
 >> We are limiting this initial sale to 25 individuals
 
->> 22 left
+>> 21 left
 
 The journal is the same content and information that is available for free on this site. You can work through the Happier and Healthier You behavior change process, by following the steps on the '[Start Here]({{ site.baseurl }}{% link start.md %})' page.
 
