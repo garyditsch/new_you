@@ -5,6 +5,8 @@ date:   2017-10-12 08:55:20 -0600
 category: blog
 ---
 
+> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
+
 The other day I got a ride to the airport as I returned from my six week trip to South Dakota and Wyoming. When my ride got there I walked out with my backpack and a single suitcase. Brenda (my ride) asked, “Is that all you got? You stayed here all that time with just this?”
 
 When I started packing for this trip, I made an intentional choice to pack as lite as I could. I had many things to accomplish on this trip, such as, being a best man in my brother’s wedding, run two marathons and continue to work. That made staying lite difficult. When there is a choice to have too much versus too little, I often prefer to be over prepared. This means having a lot of stuff. However, I wasn’t one hundred percent clear on all the details, so I chose to be nimble.

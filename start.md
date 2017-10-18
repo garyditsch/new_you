@@ -4,7 +4,7 @@ title: Start Here
 permalink: /start/
 ---
 
-[Check out the Happier and Healthier You Program Journal]({{ site.baseurl }}{% link journal.md %})
+> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
 
 # Weekly Lessons
 

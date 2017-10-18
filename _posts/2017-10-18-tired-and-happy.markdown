@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Is it possible to be tired and happy?"
+title:  "Is it possible to be tired and happy? 10 things to consider when evaluating energy and tension."
 date:   2017-10-18 08:55:20 -0600
 category: blog
 ---
+> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
+
 This past weekend I completed the Bourbon Chase with a team of eleven other runners, two drivers and two volunteers. It is one of the more enjoyable running events that I get to do. This year I participated with a new team. It is always fun to meet new people when it is centered around a memorable event. While it was fun, I did not really plan my participation incredibly well. In fact, until Craig (our team captain) started to send out reminders of the event, I forgot that I had committed to be on the team.
 
 The main reason that I was nervous about doing the event, is that I had just finished the Crazy Horse Marathon five days before the start of the Bourbon Chase. And two weeks prior to that, I completed the Sundance to Spearfish Marathon. I had no expectation of what might be possible or how my body would respond. As I started my first run on Friday afternoon, I felt pretty good. I had energy. My legs were a bit weak which made the downhills feel out of control, but my performance was as good as I could have wished. I also experienced the desire to perform for my team.

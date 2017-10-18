@@ -4,11 +4,15 @@ title: Get Updates
 permalink: /updates/
 ---
 
-*[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
+> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
 
 # Program updates
-* 10/12/17
-    * added blog post: [Minimalism a tool for finding happiness]({{ site.baseurl }}{% post_url 2017-10-12-minimalism %})
+* 10/18/17
+    * added blog post, *[Is it possible to be tired and happy?]({{ site.baseurl }}{% post_url 2017-10-18-tired-and-happy %})*
+* 10/15/17
+    * added blog post, *[Do you battle perfection?]({{ site.baseurl }}{% post_url 2017-10-15-perfectionism %})*
+* 10/12/17, version 0.1
+    * added blog post: *[Minimalism a tool for finding happiness]({{ site.baseurl }}{% post_url 2017-10-12-minimalism %})*
     * added blog page for site
     * added content for journal and gumroad checkout
     * added week thirteen action plan

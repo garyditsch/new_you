@@ -4,6 +4,7 @@ title:  "Do you battle perfectionism"
 date:   2017-10-15 08:55:20 -0600
 category: blog
 ---
+> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
 
 About eight years ago I wrote a blog post about health and fitness. I don’t remember the exact topic of the article, the topic is not critical, as the thing I remember most about the post was a comment posted by someone I knew. While I was trying to be informative and helpful, the comments were about several grammar and spelling errors. My initial reaction was one of frustration. I began to question if the reader even understood the point I was trying to teach, or did they see the article as a product to critique?
 
