@@ -6,6 +6,8 @@ permalink: /start/
 
 > *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
 
+**Click on week to see action plans and activities**
+
 # Weekly Lessons
 
 * *[week one: ]({{ site.baseurl }}{% post_url 2017-09-25-week-one %})*

@@ -6,7 +6,10 @@ permalink: /updates/
 
 > *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
 
-# Program updates
+## Program updates
+
+**We'll share updates to the curriculum, new articles, programs, along with other useful information that will help you along your journey to health and happiness.**
+
 * 10/18/17
     * added blog post, *[Is it possible to be tired and happy?]({{ site.baseurl }}{% post_url 2017-10-18-tired-and-happy %})*
 * 10/15/17
