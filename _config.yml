@@ -18,13 +18,13 @@ title: Happier & Healthier You
 description: > # this means to ignore newlines until "baseurl:"
   A behavior changed program, focused on helping individuals achieve health and happiness.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username:
 # github_username:
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 

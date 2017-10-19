@@ -1,31 +1,48 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
 ---
 <!-- Content: Blog -->
-<blockquote><p>
-<a href="http://eepurl.com/c5qLKv">Sign up to get emailed updates</a>
-</p></blockquote>
 
-<div class="row">
-    <h4>Reflections on becoming happier and healthier: </h4>
-    {% for post in site.posts %}
-        {% if post.categories contains 'blog' %}
-    <div class="col-sm-6 col-md-4">
-            <table class="table table-striped">
-              <tr>
-                  <td height="75px">
-                  {{ post.date | date: "%b %d, %Y" }}
-                  </td>
-                  <td>
-                      | <a href="{{post.url}}"> {{ post.title }}</a>
-                  </td>
-               </tr>
-            </table>
+    <!-- Page Header -->
+    <header class="masthead" style="background-image: url('img/home-bg.jpg')">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="site-heading">
+              <h1>Blog</h1>
+              <span class="subheading">Reflections on finding health and happiness</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+
+            {% for post in site.posts %}
+                {% if post.categories contains 'blog' %}
+                      <div class="post-preview">
+                        <a href="{{post.url}}">
+                          <h4 class="post-title">
+                            {{ post.title }}
+                        </h4>
+                        </a>
+                        <p class="post-meta"> {{ post.date | date: "%b %d, %Y" }}</p>
+                      </div>
+                      <hr>
+                {% endif %}
+            {% endfor %}
+
+          <!-- Pager -->
+          <!-- <div class="clearfix">
+            <a class="btn btn-secondary float-right" href="#">Older Posts &rarr;</a>
+          </div> -->
+        </div>
+      </div>
     </div>
-          {% endif %}
-     {% endfor %}
-</div>
 
-<!-- End Content -->
+    <hr>
