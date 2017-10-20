@@ -2,6 +2,7 @@
 layout: page
 title: Get Updates
 permalink: /updates/
+header-img: img/home-bg2.jpg
 ---
 
 > *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
