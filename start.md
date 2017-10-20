@@ -2,6 +2,7 @@
 layout: page
 title: Start Here
 permalink: /start/
+header-img: img/start.jpg
 ---
 
 > *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
