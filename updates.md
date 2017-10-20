@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Get Updates
+title: Join Now
 permalink: /updates/
 header-img: img/home-bg2.jpg
 ---
 
-> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
+> *[Join Now to get emailed updates](http://eepurl.com/c5qLKv)*
 
 ## Program updates
 
