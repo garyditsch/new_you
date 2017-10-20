@@ -2,9 +2,12 @@
 layout: page
 title: Start Here
 permalink: /start/
+header-img: img/start.jpg
 ---
 
-> *[Sign up to get emailed updates](http://eepurl.com/c5qLKv)*
+> *[Join Now to get emailed updates](http://eepurl.com/c5qLKv)*
+
+**Click on week to see action plans and activities**
 
 # Weekly Lessons
 
