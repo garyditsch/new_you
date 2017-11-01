@@ -7,7 +7,7 @@ category: blog
 
 > *[Join now to get emailed updates](http://eepurl.com/c5qLKv)*
 
-![Gary Wrestling](/img/gary-wrestling.jpg)
+[![Gary Wrestling](/img/gary-wrestling.jpg)](http://bit.ly/2ylRaH3)
 
 Sports and athletics has always been a major part of my life. I’m not exactly sure where the drive came from, as none of my parents are particularly interested in sports. The lone exception being the Nebraska Cornhuskers, which is not a choice if you are born in Nebraska. When I think about my lifelong commitment to helping people reach their physical performance goals, I can bring it back to a few influences and motivations:
 
