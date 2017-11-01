@@ -9,7 +9,7 @@ category: blog
 
 ![Gary Wrestling](/img/gary-wrestling.jpg)
 
-Sports and athletics has always been a major part of my life. I’m not exactly sure where the drive came from, as none of my parents are particularly interested in sports. The lone exception being the Nebraska Cornhuskers, which is not an option choice if you are born in Nebraska. When I think about my lifelong commitment to helping people reach their physical performance goals, I can bring it back to a few influences and motivations:
+Sports and athletics has always been a major part of my life. I’m not exactly sure where the drive came from, as none of my parents are particularly interested in sports. The lone exception being the Nebraska Cornhuskers, which is not a choice if you are born in Nebraska. When I think about my lifelong commitment to helping people reach their physical performance goals, I can bring it back to a few influences and motivations:
 
 1. A desire to fit in. When you grow up in rural Nebraska, the opportunities for diverse experiences are somewhat limited. One of the exceptions is athletics. In my case, as a young child living in Imperial, Nebraska (pop 2,047), I was introduced to wrestling. Even as a physically small kid, it allowed me to compete. That opportunity sparked my love of sport and competition.
 
