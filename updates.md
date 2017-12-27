@@ -11,6 +11,13 @@ header-img: img/home-bg2.jpg
 
 **We'll share updates to the curriculum, new articles, programs, along with other useful information that will help you along your journey to health and happiness.**
 
+* 12/27/17
+    * 10 lessons from program added to Youtube playlist
+        * [Click Here for: Happier & Healthier You on Youtube](https://www.youtube.com/playlist?list=PLAg5pHvM_nE3fE0QsmYRIk9z3tW5ovgEg)
+    * 10 lessons from program added to Soundcloud
+        * [Click Here for: Happier & Healthier You on Soundcloud](https://soundcloud.com/user-335920184/sets/happier-and-healthier-you)
+    * Instant Messenger bot, which shares a daily quote for inspiration to live a happier and healthier life.
+        * [Click Here for: Happy Bot](https://m.me/happierandhealthieryou?ref=w756086)
 * 10/18/17
     * added blog post, *[Is it possible to be tired and happy?]({{ site.baseurl }}{% post_url 2017-10-18-tired-and-happy %})*
 * 10/15/17
